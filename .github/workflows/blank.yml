@@ -245,7 +245,7 @@ jobs:
               "30_Ngày_(43200m)"           { $totalMinutes = 43200; $displayTime = "30 ngày" }
               "60_Ngày_(86400m)"           { $totalMinutes = 86400; $displayTime = "60 ngày" }
               "90_Ngày_(129600m)" { $totalMinutes = 129600; $displayTime = "90 ngày" }
-              "100_Năm_(129600m)" { $totalMinutes = 52626000; $displayTime = "100 năm" }
+              "100_Năm_(52626000m)" { $totalMinutes = 52626000; $displayTime = "100 năm" }
           }
           
           # Tính thời gian chính xác
